@@ -248,6 +248,9 @@
 .header-root-class-name1 {
   color: var(--dl-color-secondary-400);
 }
+.header-root-class-name2 {
+  color: var(--dl-color-secondary-400);
+}
 @media(max-width: 991px) {
   .header-nav {
     max-width: 960px;
